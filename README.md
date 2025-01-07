@@ -1,1 +1,2 @@
 # mypython
+My name is Athmiya, and I am an engineering student passionate about technology and innovation. I enjoy applying my knowledge to real-world problems and have worked on projects like a DBMS mini project on cosmetic products. Through my studies, I’ve developed strong problem-solving, teamwork, and technical skills. I am eager to learn and grow in this field while contributing my skills to meaningful projects. I look forward to leveraging my abilities to make a positive impact in this role.
